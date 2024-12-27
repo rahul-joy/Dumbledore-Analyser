@@ -1,2 +1,2 @@
 # Dumbledore-Analyser
- Dumbledore analyser is a malware detaction tool. Where user can check virus from a file using malware signature.
+ Dumbledore analyser is a malware detaction tool. Where user can check virus of a file using malware signature.
